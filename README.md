@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I'm Deniz, I am trying to improve myself in Data Science and Machine Learning.<br><br>📬 How to reach me denizyozgatli@outlook.com</p>
+<p align="left">Hi! I'm Deniz, I am trying to improve myself in Data Science and Machine Learning.<br><br>📬 How to reach me **denizyozgatli@outlook.com**</p>
 
 ###
 
