@@ -10,10 +10,7 @@
 
 ###
 
-<div align="left">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" href="https://www.linkedin.com/in/denizyozgatli" target="_blank"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" href="https://x.com/dnzyzgtl" target="_blank" />
-</div>
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://linkedin.com/in/denizyozgatli) [![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://x.com/dnzyzgtl)
 
 ###
 
