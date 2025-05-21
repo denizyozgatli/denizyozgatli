@@ -10,14 +10,14 @@
 
 ###
 
-<p align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/denizyozgatli" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn Logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/dnzyzgtl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter Logo" />
+  <a href="https://x.com/dnzyzgtl" target="_blank"> kodunu gözlemlediğim zaman iki logo arasında mavi çizgi çıkıyor bunun sebebi nedit
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-</p>
+</div>
 
 ###
 
